@@ -1,0 +1,7 @@
+# models/
+# results/
+# *.csv
+# offload/
+# dataset/
+# */__pycache__
+# *.pdf
