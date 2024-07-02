@@ -17,7 +17,7 @@ Then enter your conda environment to run the codes.
 
 We did experiments on four datasets: [Hellaswag](https://huggingface.co/datasets/Rowan/hellaswag), [MMLU](https://huggingface.co/datasets/cais/mmlu), [ETHICS (commonsense subset)](https://github.com/hendrycks/ethics), and [GSM8K](https://huggingface.co/datasets/openai/gsm8k). To reproduce the results of each dataset, please enter the corresponding dataset directory.
 
-Besides, to run the codes, please download your own pre-trained models into the ```models``` directory and name them like 
+Besides, to run the codes, please download your own pre-trained models from Huggingface into the ```models``` directory and name them like 
 ```
 models
 └───Llama-2-7b-chat-hf
